@@ -5,6 +5,8 @@ public class Deposite{
   
   // for depositing 
   
-  // created on gtihub fro practice
+  // created on gtihub for practice
+
+    // it is changed in git
   
 }
